@@ -19,13 +19,14 @@ android {
         }
     }
 
-    lintOptions {
-        checkReleaseBuilds false
-    }
 
     externalNativeBuild {
         ndkBuild {
             path 'src/main/jni/Android.mk'
         }
+    }
+    namespace 'org.sipdroid.sipua'
+    lint {
+        checkReleaseBuilds false
     }
 }

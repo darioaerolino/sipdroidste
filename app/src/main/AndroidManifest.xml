@@ -24,7 +24,6 @@
 /////////////////////////////////////////////////////////////////////
  -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-	package="org.sipdroid.sipua"
     android:versionName="6.3 beta"
     android:versionCode="136"
     android:installLocation="auto">
