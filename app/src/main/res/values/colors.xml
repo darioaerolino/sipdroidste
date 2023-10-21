@@ -29,7 +29,7 @@
     <color name="incall_textOnHold">#FF9524</color> <!-- orange -->
     
     <!-- DTMF Dialer -->
-    <color name="dtmf_dialer_background">#333333</color> <!-- green -->
+    <color name="dtmf_dialer_background">#425180</color> <!-- green -->
 
     <color name="recording_time_elapsed_text">#FFFFFFFF</color>
     <color name="recording_time_remaining_text">#FFFF0033</color>
