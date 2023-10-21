@@ -27,13 +27,13 @@
 
 <resources>
 
-	<string name="app_name">Sipdroid</string>
+	<string name="app_name">Stevoip</string>
 	<string name="pstn_name">Chamada</string>
-	<string name="sip_name">Chamada Sipdroid, quando disponível</string>
+	<string name="sip_name">Chamada Stevoip, quando disponível</string>
 
 	<string name="about">Sipdroid é um cliente SIP open-source para o Android
  \n
- \nVeja http://sipdroid.org para mais informações
+ \nVeja http://stesistemas.com.br para mais informações
  \n
  \nVersão ${VERSION}
  \nSoftware disponível para testes.
